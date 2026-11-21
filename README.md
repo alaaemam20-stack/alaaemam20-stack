@@ -97,12 +97,19 @@ A mobile application for managing medicines and tracking medicine quantities.
 
 ---
 
-### 🎓 NTI Graduation Project
 
-A collaborative mobile application developed as part of the NTI training program.
+### 🛍️ Shopping App – Dukn
 
-- Flutter mobile application development.
-- Team collaboration and product development.
+An E-Commerce mobile application built with Flutter, providing users with a smooth and convenient online shopping experience.
+
+**Main Features:**
+- 🏠 Home – Browse products and discover featured items.
+- 📂 Categories – Explore products by categories.
+- ❤️ Favorites – Save and manage favorite products.
+- 🛒 Cart – Add products and manage shopping cart items.
+- 👤 Profile – Manage user profile information.
+
+**Technologies:** Flutter & Dart
 
 <a href="https://github.com/mostafaali2002/nti_graduation_project">🔗 View Project</a>
 
