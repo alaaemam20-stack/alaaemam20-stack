@@ -64,8 +64,8 @@
 
 **Programming Languages**
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,dart,python,cpp" />
 </p>
 
 ---
@@ -98,7 +98,7 @@ A mobile application for managing medicines and tracking medicine quantities.
 ---
 
 
-### 🛍️ Shopping App – Dukn
+### 🛍️ Shopping App 
 
 An E-Commerce mobile application built with Flutter, providing users with a smooth and convenient online shopping experience.
 
